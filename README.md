@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 hey, i'm @wide
 
-<!--
-**widelyopen/widelyopen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a dev who enjoys building things and breaking them (hopefully not in production).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 what i work with
+
+**languages**  
+`python` `html` `css` `javascript`
+
+**tools & platforms**  
+`git` `github` `vscode` `discord.py` `mysql`
+
+**currently exploring**  
+discord bot development • web scraping • automation • database design
+
+---
+
+## 🚀 projects
+
+check out my repos to see what i've been cooking up — from discord bots with custom commands to automation scripts that actually save time.
+
+---
+
+## 📫 let's connect
+
+got an idea? found a bug? just wanna chat about code?  
+hit me up on github or shoot me a dm.
+
+---
+
+**currently vibing to:** writing clean code and learning something new every day ✨
+
+---
+
+*"code that works is good. code that works well is better."*
