@@ -141,7 +141,7 @@ VPS setup, process management, reverse proxies, and keeping services running.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/widelyopen/widelyopen/output/github-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/widelyopen/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 ---
