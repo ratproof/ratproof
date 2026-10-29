@@ -1,4 +1,8 @@
-# Hey, I'm widelyopen
+# Hey, I'm Wide
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Discord+bots+and+backend+tooling;Python+%7C+PostgreSQL+%7C+React;Building+things+that+stay+up" alt="Typing intro" />
+</p>
 
 Developer focused on Discord bots, automation, and backend tooling. I like building things that are reliable, readable, and actually useful.
 
@@ -72,11 +76,11 @@ I build and run Discord bots and communities, write the backend that powers them
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Project name](https://github.com/widelyopen/repo) | Discord bot with modular cogs, welcome messages, embed scripting, and database-backed settings | Python, discord.py, PostgreSQL |
-| [Project name](https://github.com/widelyopen/repo) | Awards roles to members who put a chosen phrase in their Discord status, managed through slash commands | Python, discord.py |
-| [Project name](https://github.com/widelyopen/repo) | Live status page showing Discord profile and presence data | JavaScript, HTML, CSS |
-| [Project name](https://github.com/widelyopen/repo) | Browser-based fake OS with draggable windows, terminal, file system, music player, and settings | React, JavaScript |
-| [Project name](https://github.com/widelyopen/repo) | Dutch sleep debt calculator website | HTML, CSS, JavaScript |
+| [Project name](https://github.com/wide/repo) | Discord bot with modular cogs, welcome messages, embed scripting, and database-backed settings | Python, discord.py, PostgreSQL |
+| [Project name](https://github.com/wide/repo) | Awards roles to members who put a chosen phrase in their Discord status, managed through slash commands | Python, discord.py |
+| [Project name](https://github.com/wide/repo) | Live status page showing Discord profile and presence data | JavaScript, HTML, CSS |
+| [Project name](https://github.com/wide/repo) | Browser-based fake OS with draggable windows, terminal, file system, music player, and settings | React, JavaScript |
+| [Project name](https://github.com/wide/repo) | Dutch sleep debt calculator website | HTML, CSS, JavaScript |
 
 ---
 
@@ -119,8 +123,26 @@ VPS setup, process management, reverse proxies, and keeping services running.
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=widelyopen&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=widelyopen&layout=compact&hide_border=true)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wide&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wide&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wide&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wide&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&custom_title=Contribution%20Graph" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wide&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wide/wide/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
 
 ---
 
@@ -128,8 +150,8 @@ VPS setup, process management, reverse proxies, and keeping services running.
 
 Have an idea, found a bug, or want to talk code? Reach out through GitHub or Discord.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/widelyopen)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/244738370213773313)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wide)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
 
 ---
 
