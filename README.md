@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="mason.dev, discord bots, backend, automation" width="100%" />
+  <img src="assets/banner.svg" alt="mason, discord bots, backend, automation" width="100%" />
 </p>
 
 <p align="center">
