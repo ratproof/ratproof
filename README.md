@@ -1,20 +1,22 @@
-# Hey, I'm Wide
+# Hey, I'm Mason
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Discord+bots+and+backend+tooling;Python+%7C+PostgreSQL+%7C+React;Building+things+that+stay+up" alt="Typing intro" />
+  <img src="assets/banner.svg" alt="mason.dev, discord bots, backend, automation" width="100%" />
 </p>
 
 Developer focused on Discord bots, automation, and backend tooling. I like building things that are reliable, readable, and actually useful.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p align="center">
+  <img src="assets/stack-marquee.svg" alt="Tech stack" width="100%" />
+</p>
 
 ---
 
 ## About
+
+<p align="center">
+  <img src="assets/terminal.svg" alt="Terminal output" width="720" />
+</p>
 
 I build and run Discord bots and communities, write the backend that powers them, and put together web projects on the side. Most of my work is Python on a Linux VPS with PostgreSQL behind it, plus frontend projects deployed on Vercel.
 
@@ -130,6 +132,13 @@ VPS setup, process management, reverse proxies, and keeping services running.
 <p align="center">
   <img src="https://raw.githubusercontent.com/widelyopen/widelyopen/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
