@@ -1,4 +1,4 @@
-# Hey, I'm Wide
+# Hey, I'm widelyopen
 
 Developer focused on Discord bots, automation, and backend tooling. I like building things that are reliable, readable, and actually useful.
 
@@ -72,11 +72,11 @@ I build and run Discord bots and communities, write the backend that powers them
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [Project name](https://github.com/wide/repo) | Discord bot with modular cogs, welcome messages, embed scripting, and database-backed settings | Python, discord.py, PostgreSQL |
-| [Project name](https://github.com/wide/repo) | Awards roles to members who put a chosen phrase in their Discord status, managed through slash commands | Python, discord.py |
-| [Project name](https://github.com/wide/repo) | Live status page showing Discord profile and presence data | JavaScript, HTML, CSS |
-| [Project name](https://github.com/wide/repo) | Browser-based fake OS with draggable windows, terminal, file system, music player, and settings | React, JavaScript |
-| [Project name](https://github.com/wide/repo) | Dutch sleep debt calculator website | HTML, CSS, JavaScript |
+| [Project name](https://github.com/widelyopen/repo) | Discord bot with modular cogs, welcome messages, embed scripting, and database-backed settings | Python, discord.py, PostgreSQL |
+| [Project name](https://github.com/widelyopen/repo) | Awards roles to members who put a chosen phrase in their Discord status, managed through slash commands | Python, discord.py |
+| [Project name](https://github.com/widelyopen/repo) | Live status page showing Discord profile and presence data | JavaScript, HTML, CSS |
+| [Project name](https://github.com/widelyopen/repo) | Browser-based fake OS with draggable windows, terminal, file system, music player, and settings | React, JavaScript |
+| [Project name](https://github.com/widelyopen/repo) | Dutch sleep debt calculator website | HTML, CSS, JavaScript |
 
 ---
 
@@ -119,8 +119,8 @@ VPS setup, process management, reverse proxies, and keeping services running.
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=wide&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wide&layout=compact&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=widelyopen&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=widelyopen&layout=compact&hide_border=true)
 
 ---
 
@@ -128,7 +128,7 @@ VPS setup, process management, reverse proxies, and keeping services running.
 
 Have an idea, found a bug, or want to talk code? Reach out through GitHub or Discord.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/wide)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/widelyopen)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/244738370213773313)
 
 ---
