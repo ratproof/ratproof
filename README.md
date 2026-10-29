@@ -21,23 +21,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ratproof/ratproof/output/github-snake-dark.svg" alt="Contribution snake" />
 </p>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## Contact
-
-Have an idea, found a bug, or want to talk code? Reach out through GitHub or Discord.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ratproof)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-
----
-
-> Code that works is good. Code that works well is better.
